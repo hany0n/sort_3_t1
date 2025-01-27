@@ -1,0 +1,16 @@
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\bin\Debug\net8.0-windows\task_sort_3.exe
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\bin\Debug\net8.0-windows\task_sort_3.deps.json
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\bin\Debug\net8.0-windows\task_sort_3.runtimeconfig.json
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\bin\Debug\net8.0-windows\task_sort_3.dll
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\bin\Debug\net8.0-windows\task_sort_3.pdb
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\obj\Debug\net8.0-windows\task_sort_3.Form1.resources
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\obj\Debug\net8.0-windows\task_sort_3.csproj.GenerateResource.cache
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\obj\Debug\net8.0-windows\task_sort_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\obj\Debug\net8.0-windows\task_sort_3.AssemblyInfoInputs.cache
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\obj\Debug\net8.0-windows\task_sort_3.AssemblyInfo.cs
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\obj\Debug\net8.0-windows\task_sort_3.csproj.CoreCompileInputs.cache
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\obj\Debug\net8.0-windows\task_sort_3.dll
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\obj\Debug\net8.0-windows\refint\task_sort_3.dll
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\obj\Debug\net8.0-windows\task_sort_3.pdb
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\obj\Debug\net8.0-windows\task_sort_3.genruntimeconfig.cache
+C:\Users\hanyon\source\repos\task_sort_3\task_sort_3\obj\Debug\net8.0-windows\ref\task_sort_3.dll
